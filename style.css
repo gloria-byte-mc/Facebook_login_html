@@ -1,7 +1,7 @@
   
         
 .footer{
-  height:220px;
+  height:100px !important;
   background-color: white;
   margin-left: 0px;
   border-bottom: 0;
@@ -11,11 +11,11 @@
   padding: 0px;
 } 
 #hr2{
-  margin-left: 100px;
-  width:80% !important;
+  margin-left: 530px;
+  width:55% !important;
 }
 #meta{
-  padding-left: 100px;
+  padding-left: 530px;
   color:#8a8d91;
 }
 #font{
